@@ -1,1 +1,1 @@
-# [Kangle一键脚本](Kangle.pw)
+# [Kangle一键脚本](https://kangle.pw/)
